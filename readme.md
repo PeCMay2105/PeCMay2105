@@ -1,5 +1,6 @@
 # **Olá, Meu nome é Pedro**   
 - Computer Science undergraduate at University of Brasilia (UnB)
+- currently at the 2nd period
 
 <div align = "center">
 
